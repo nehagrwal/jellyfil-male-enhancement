@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/jellyfil-male-enhancement/sitemap.xml
+Sitemap: https://jellyfil-male-enhancement.vercel.app/sitemap-vercel.xml
+Sitemap: https://jellyfil-male-enhancement.pages.dev/sitemap-cloudflare.xml
